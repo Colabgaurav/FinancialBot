@@ -897,6 +897,6 @@ if st.button("Scrape & Analyze"):
         
 # Add external link under the button
 st.markdown(
-    f"[DCF Calculator Website]({"https://colabgaurav.github.io/DCF-Calculator/"})",
+    f"[DCF Calculator Website](https://colabgaurav.github.io/DCF-Calculator/)",
     unsafe_allow_html=True
 )
