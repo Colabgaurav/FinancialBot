@@ -3,7 +3,6 @@ selenium
 html-table-parser
 beautifulsoup4
 pandas
-time
 groq
 pdfkit
 python-dotenv
